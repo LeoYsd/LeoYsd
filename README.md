@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeoYsd
-- 👀 I’m interested in blockchain, AI, Bot.
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on creation of a cryptocurrency
-- 📫 How to reach me on Discord @LeoYsd
+- 👀 A blockchain developer.
+- 🌱 Skilled in solidity & Hyperledger
+- 💞️ I’m looking to revolutionalize the way industries operate through blockchain technology
+- 📫 How to reach me on telegram @Leo_side
 
 <!---
 LeoYsd/LeoYsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
