@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Passionate about the transformative potential of blockchain technology, I am a skilled developer with expertise in smart contract development, hyperledger implementation, and web3.0 technologies. My proficiency in Solidity and Blockchain architect enable me to create efficient and secure blockchain solutions. I am eager to join a dynamic team of blockchain developers  and contribute to the development of innovative applications that drive business growth and social impact.
+I am Passionate about the transformative potential of blockchain technology, I am a skilled blockchain developer with expertise in smart contract development and auditing. My proficiency in Solidity and Blockchain architecture enable me to create efficient and secure blockchain solutions. I am eager to join a dynamic team of developers and contribute to the development of secure innovative applications that drive business growth and social impact.
 
 
 ## 🌐 Socials:
